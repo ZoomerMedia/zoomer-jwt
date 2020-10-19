@@ -1,6 +1,6 @@
 module.exports = {
 
-    'secret': 'zoomer70!',
+    'secret': 'secret!',
     'database': 'mongodb://localhost:27017/zoomerauth'
 
 };
